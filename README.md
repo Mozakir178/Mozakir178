@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on [Mytheresa.com-Clone](https://github.com/Mozakir178/The-WebEngers)
 
-- 🌱 I’m currently learning ### MySQL
+- 🌱 I’m currently learning  *MySQL*
 
 - 👨‍💻 Checkout my portfolio [My Portfolio](https://mozakir178.github.io/#)
 
-- 💬 Ask me about **java , spring boot , javascript**
+- 💬 Ask me about *java , spring boot , javascript*
 
 - 📫 How to reach me **mozakir178@gmail.com**
 
