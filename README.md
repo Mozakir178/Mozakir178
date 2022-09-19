@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 All of my projects are available at [https://mozakir178.github.io/#](https://mozakir178.github.io/#)
+- 👨‍💻 Checkout my portfolio [My Portfolio](https://mozakir178.github.io/#)
 
 - 💬 Ask me about **java , spring boot , javascript**
 
