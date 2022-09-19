@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mozakir178@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/10thal-NvmgYUHhiBtCE-z7D91RF5CkGt](https://drive.google.com/drive/folders/10thal-NvmgYUHhiBtCE-z7D91RF5CkGt)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/10thal-NvmgYUHhiBtCE-z7D91RF5CkGt)
 
 - ⚡ Fun fact **I loves writing poetry.**
 
