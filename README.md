@@ -42,12 +42,6 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozakir178&show_icons=true&locale=en&layout=compact" alt="mozakir178" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozakir178&show_icons=true&locale=en" alt="mozakir178" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&" alt="mozakir178" /></p>
-
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
