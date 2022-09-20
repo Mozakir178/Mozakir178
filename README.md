@@ -48,3 +48,27 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&" alt="mozakir178" /></p>
 
+<br><br>
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&theme=radical" alt="Samruddhi" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mozakir178&show_icons=true&theme=radical" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozakir178&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=mozakir178&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+<div>
+
+  
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+![Profile views](https://gpvc.arturio.dev/mozakir178)  
+
+
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
+
+
