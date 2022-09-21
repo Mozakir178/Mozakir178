@@ -49,7 +49,7 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&theme=radical" alt="Samruddhi" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mozakir178&show_icons=true&theme=radical" height="255px" width="47%"/>
-</div>  </br>
+</div>
   
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozakir178&theme=radical&langs_count=8" alt="zakir" height="260px" width="25%" />
