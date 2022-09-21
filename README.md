@@ -47,13 +47,13 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 <h2 align="center">📊 My Github Stats<h2>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozakir178&theme=onedark" alt="mozakir178" />
 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&theme=radical" alt="Samruddhi" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mozakir178&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&theme=radical" alt="Samruddhi" height="250px" width="100%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mozakir178&show_icons=true&theme=radical" height="255px" width="100%"/>
 </div>
   
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozakir178&theme=radical&langs_count=8" alt="zakir" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=mozakir178&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozakir178&theme=radical&langs_count=8" alt="zakir" height="260px" width="100%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=mozakir178&theme=gruvbox&hide_border=true&area=true" height="260px" width="100%"/>
 
 
   
