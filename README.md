@@ -46,7 +46,7 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozakir178&theme=onedark" alt="mozakir178" />
-
+    </p>
     </br>
      <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&theme=radical" />
