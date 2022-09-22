@@ -61,7 +61,7 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
     
     
     <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&theme=dark" /> <br \>
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&theme=dark" />
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozakir178&show_icons=true&locale=en&theme=dark"/>
 </p>
 
