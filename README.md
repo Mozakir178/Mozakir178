@@ -77,10 +77,6 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
-<h3 align="center"> 
-  Visitor count <br>
-  <img src="[https://profile-counter.glitch.me/rshukla12/count.svg](https://komarev.com/ghpvc/?username=mozakir178&label=Profile%20views&color=0e75b6&style=flat)" />
-</h3>
 
 
 
