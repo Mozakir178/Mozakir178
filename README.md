@@ -43,7 +43,11 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
 
 
-<br><br>
+<br>
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
 <h2 align="center">📊 My Github Stats<h2>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozakir178&theme=onedark" alt="mozakir178" />
     </p>
@@ -65,20 +69,18 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
     
    
 
-<h3 align="center">
- Show some ❤️ by starring some of the repositories!
-</h3>
+
 <br>
 
-<h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
-</h3>
 
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="[https://profile-counter.glitch.me/rshukla12/count.svg](https://komarev.com/ghpvc/?username=mozakir178&label=Profile%20views&color=0e75b6&style=flat)" />
+</h3>
 
 
 
