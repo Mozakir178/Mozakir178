@@ -58,6 +58,22 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozakir178&theme=radical&langs_count=8" alt="zakir" height="280px" width="26%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=mozakir178&theme=gruvbox&hide_border=true&area=true" height="280px" width="70%"/>
 </div>
+    
+    
+    <p align="center">
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&theme=dark" /> <br \>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozakir178&show_icons=true&locale=en&theme=dark"/>
+</p>
+
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
+
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
+</h3>
 
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
