@@ -49,8 +49,8 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
  
      <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&theme=radical" width="24%" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozakir178&show_icons=true&theme=radical" width="70%"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozakir178&theme=radical" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozakir178&show_icons=true&theme=radical"/>
 </p>
   
 
@@ -58,8 +58,8 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
   
   <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozakir178&theme=radical&langs_count=8" />
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mozakir178&theme=gruvbox&hide_border=true&area=true"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozakir178&theme=radical&langs_count=8"  width="24%"/>
+   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mozakir178&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
 </p>
     
     
