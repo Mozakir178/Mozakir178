@@ -18,15 +18,15 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
 - 🔭 I’m currently working on [Mytheresa.com-Clone](https://github.com/Mozakir178/The-WebEngers)
 
-- 🌱 I’m currently learning  ****MySQL****
+- 🌱 I’m currently learning  ****Spring Boot****
 
 - 👨‍💻 Checkout my portfolio [My Portfolio](https://mozakir178.github.io/#)
 
-- 💬 Ask me about ***java , spring boot , javascript***
+- 💬 Ask me about ***Java, Spring Boot, Javascript, Hibernate***
 
 - 📫 How to reach me **mozakir178@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1186-Zz9o-0krtOuLW-8LO72lLmgTosB_/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://github.com/Mozakir178/Resume/blob/main/Mohammad_Zakir_Resume.pdf)
 
 - ⚡ Fun fact **I loves writing poetry.**
 
