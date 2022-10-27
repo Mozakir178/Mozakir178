@@ -26,7 +26,7 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
 - 📫 How to reach me **mozakir178@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://github.com/Mozakir178/Resume/blob/main/Mohammad_Zakir_Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/Mozakir178/Resume/blob/main/Mohammad-Zakir-Resume.pdf)
 
 - ⚡ Fun fact **I loves writing poetry.**
 
