@@ -72,7 +72,9 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
 <br>
 
-
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
