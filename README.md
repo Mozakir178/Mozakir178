@@ -60,11 +60,12 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
   </br>
 
-  
+  <!--
   <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozakir178&theme=radical&langs_count=8"  width="24%"/>
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mozakir178&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
 </p>
+-->
     
     
    
